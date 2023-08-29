@@ -1,0 +1,17 @@
+# meta
+.vscode/
+__pycache__/
+
+# data
+data/
+
+# generated
+gen/
+out/
+
+# logs
+log/
+*.log
+
+# credentials
+API_KEY.*
